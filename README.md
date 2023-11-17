@@ -1,13 +1,13 @@
 # java-stream
 
-### stream sources
+### Stream sources
 
 ![ex_screen](images/stream1.png)
 ![ex_screen](images/stream2.png)
 ![ex_screen](images/stream3.png)
 ![ex_screen](images/stream4.png)
 
-## reference
+## Reference
 
 - https://helloino.tistory.com/65
 - https://futurecreator.github.io/2018/08/26/java-8-streams/
